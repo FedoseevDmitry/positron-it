@@ -1,4 +1,4 @@
-# vue-car
+# vue-cart
 
 ## Project setup
 ```
