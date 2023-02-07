@@ -1,4 +1,4 @@
-# positron
+# vue-car
 
 ## Project setup
 ```
